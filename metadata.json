@@ -1,0 +1,7 @@
+{
+  "name": "Copy of UniAdmit - Automated Admission & Counselling System",
+  "description": "A comprehensive university admission management system featuring automated counsellor allocation, course-wise FIFO queuing, session time tracking, and real-time administrative dashboards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
